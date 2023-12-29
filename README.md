@@ -1,1 +1,1 @@
-![demo](https://github.com/DhruvinBhalala/Convert-the-First-Letter-of-a-String-into-UpperCase/assets/142414337/ad36e3b1-b7a8-4844-af41-c13555f8d7b3)
+![demo](https://github.com/DhruvinBhalala/Convert-the-First-Letter-of-a-String-into-UpperCase/assets/142414337/cdef3ccd-fb3c-4907-ba73-08fa6cdf82bf)
